@@ -73,7 +73,6 @@ Open the local URL printed in the terminal (usually `http://127.0.0.1:7860`), up
 .
 ├── main.py                  # App: detection, segmentation, Gradio UI
 ├── sam_vit_h_4b8939.pth     # SAM checkpoint (download separately)
-├── output/                  # Saved results
 └── README.md
 ```
 

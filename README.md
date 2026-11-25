@@ -26,8 +26,8 @@ A simple web app that removes the background from photos of people. It uses **YO
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/omarl4574/background_remover
+cd background_remover
 
 python -m venv venv
 # Windows

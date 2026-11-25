@@ -88,6 +88,4 @@ Open the local URL printed in the terminal (usually `http://127.0.0.1:7860`), up
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [Gradio](https://www.gradio.app/)
 
-## License
 
-MIT (or your choice). Note that SAM and Ultralytics YOLO have their own licenses (Apache 2.0 and AGPL-3.0 respectively), so check them if you plan to use this commercially.
